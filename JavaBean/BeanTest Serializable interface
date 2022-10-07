@@ -1,0 +1,11 @@
+package model;
+
+public interface Serialzable {
+}
+
+
+// useful to re-create objects into its original state
+
+// convert object to stream of bytes for easy shipment of information
+
+// saves the state of the object for recreation without having to reprocess them in diff platform
